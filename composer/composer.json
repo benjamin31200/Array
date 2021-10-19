@@ -1,0 +1,9 @@
+{
+    "name": "benja/composer",
+    "autoload": {
+        "psr-4": {
+            "Benja\\Composer\\": "src/"
+        }
+    },
+    "require": {}
+}
